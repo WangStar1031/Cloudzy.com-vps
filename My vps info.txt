@@ -1,0 +1,12 @@
+ We're excited to inform you that your Cloud VPS is now up and running! Thank you for choosing Cloudzy as your VPS provider.
+Credentials:
+Hostname: 	wx-vps-ubuntu-1
+Username: 	root
+Password: 	Main password for me
+IPv4 Address: 	172.86.117.96
+IPv4 Gateway: 	172.86.117.1
+IPv4 Netmask: 	255.255.255.0
+Details:
+Plan: 	1 vCPU | 1GB RAM | 25GB Storage
+Operating System: 	Ubuntu server 24.04
+Date & Time: 	Oct 11, 2024 - 00:34 AM UTC 
